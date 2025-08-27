@@ -2,9 +2,6 @@
 main:
   - title: "Research"
   url: /research/
-
-  #- title: "Working Paper"
-  #url: /working_paper/
  
   - title: "CV"
   url: /cv/
