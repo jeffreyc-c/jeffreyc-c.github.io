@@ -325,3 +325,8 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+
+/* Make ORCID icon green, added on 8.28.25 */ 
+.ai-orcid {
+    color: #A6CE39; /* ORCID official green */
+}
