@@ -10,12 +10,26 @@ Given this position, how are local communities navigating the global trend towar
 
 ## Working Papers
 
-<details style="margin-top:1em; margin-bottom:1em;">
-  <summary style="cursor: pointer; font-weight: bold;">Download PDFs</summary>
-  <ul>
-    <li><a href="/files/resistance_coltman-cormier.pdf" download>Project 1: The Local Politics of Border Control: Transnational Communities and Resistance</a></li>
-  </ul>
-</details>
+<div style="margin-bottom:1.5em;">
+
+  <details style="display:inline-block; width:75%;">
+    <summary style="cursor:pointer; font-weight:bold;">
+      The Local Politics of Border Control: Transnational Communities and Resistance
+    </summary>
+    <p>
+      [Insert abstract here — for example: This paper examines how local communities situated
+      in transnational border regions respond to state-driven hardening of borders. Drawing
+      on fieldwork and quantitative analyses, it shows that transnational community ties can
+      both constrain and motivate resistance to restrictive border policies.]
+    </p>
+  </details>
+
+  <a href="/files/resistance_coltman-cormier.pdf" download 
+     style="float:right; background-color:#0366d6; color:white; padding:6px 12px; border-radius:5px; text-decoration:none;">
+     Download PDF
+  </a>
+
+</div>
 
 An article-length version of one chapter is currently under review (see the manuscript [here](/working_papers/)). 
 
