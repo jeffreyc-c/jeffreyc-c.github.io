@@ -18,7 +18,7 @@ Given this position, how are local communities navigating the global trend towar
         <span>The Local Politics of Border Control: Transnational Communities and Resistance</span>
         <a href="/files/resistance_coltman-cormier.pdf" download
            style="background-color:#0366d6; color:white; padding:4px 8px; font-size:0.85em; border-radius:4px; text-decoration:none; margin-left:10px;">
-           Download PDF
+           PDF
         </a>
       </div>
     </summary>
