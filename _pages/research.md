@@ -12,9 +12,13 @@ Given this position, how are local communities navigating the global trend towar
 
 <div style="margin-bottom:1.5em;">
 
-  <details style="display:inline-block; width:75%;">
-    <summary style="cursor:pointer; font-weight:bold;">
-      The Local Politics of Border Control: Transnational Communities and Resistance
+  <details>
+    <summary style="cursor:pointer; font-weight:bold; display:flex; align-items:center; justify-content:space-between;">
+      <span>The Local Politics of Border Control: Transnational Communities and Resistance</span>
+      <a href="/files/resistance_coltman-cormier.pdf" download
+         style="background-color:#0366d6; color:white; padding:4px 8px; font-size:0.85em; border-radius:4px; text-decoration:none; margin-left:10px;">
+         Download PDF
+      </a>
     </summary>
     <p>
       [Insert abstract here — for example: This paper examines how local communities situated
@@ -24,10 +28,6 @@ Given this position, how are local communities navigating the global trend towar
     </p>
   </details>
 
-  <a href="/files/resistance_coltman-cormier.pdf" download 
-     style="float:right; background-color:#0366d6; color:white; padding:6px 12px; border-radius:5px; text-decoration:none;">
-     Download PDF
-  </a>
-
 </div>
+
 
