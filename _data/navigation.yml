@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Working Paper"
-    url: /working_papers/
+#  - title: "Working Paper"
+#    url: /working_papers/
  
   - title: "CV"
     url: /cv/
