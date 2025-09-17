@@ -1,12 +1,10 @@
 ---
-# Only the three dashes above are needed for Jekyll to process this as Sass
 ---
 
-// widen main content area
 .page__content {
-  max-width: 1000px;  // default is about 720px
+  max-width: 1000px;  // widen content, default is about 720
 }
 
 .page {
-  max-width: 1100px;
+  max-width: 1100px;  // widen page wrapper
 }
