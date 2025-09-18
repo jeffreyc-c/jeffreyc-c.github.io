@@ -31,6 +31,13 @@ Given this position, how are local communities navigating the global trend towar
 
 </div>
 
+<div style="margin-bottom:1.5em; font-weight:bold; margin-left:0.25em;">
+  “We’ve always had a separation:” The Local Psychology of Border Walls.
+</div>
+
+<div style="margin-bottom:1.5em; font-weight:bold; margin-left:0.25em;">
+  Gender and Public Demands for Border Security (with Michael R. Kenwick and Summer Lindsey).
+</div>
 
 
 
