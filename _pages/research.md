@@ -16,7 +16,7 @@ Given this position, how are local communities navigating the global trend towar
     <summary style="cursor:pointer; font-weight:bold; list-style: disclosure-closed; display:list-item;">
       <div style="display:flex; align-items:center; justify-content:space-between; width:100%;">
         <span style="margin-left:0.25em;">
-          The Local Politics of Border Control: Transnationality, Resistance, and Accommodation
+          The Local Politics of Border Control: Transnationality, Resistance, and Accommodation (UNDER REVIEW)
         </span>
         <a href="/files/resistance_coltman-cormier.pdf" download
            style="background-color:#0366d6; color:white; padding:4px 8px; font-size:0.85em; border-radius:4px; text-decoration:none; margin-left:10px; white-space:nowrap;">
