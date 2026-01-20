@@ -6,7 +6,7 @@ author_profile: true
 
 In my dissertation project, I take up the challenge of theorizing borderlands as unique geopolitical spaces and local populations as central actors. Knowledge about the macro-level causes and effects of border hardening is abundant, but little is understood about its “on-the-ground” politics. Local communities are unique in their opportunity to engage with people, goods, and institutions across the border. These communities also directly experience changes in how borders are governed. 
 
-Given this position, how are local communities navigating the global trend toward hardened borders? I answer this question on three axes: (1) local contestation and accommodation over border hardening, (2) how people in local communities psychologically adapt to changing borders, and (3) how bottom-up demands influence the content of border policy. The multi-method project encompasses global quantitative analyses with an original geospatial measure of local transnational ties across borders, qualitative fieldwork at the United States–Mexico border, and both observational and experimental survey tests.
+Given this position, how are local communities navigating the global trend toward hardened borders? I answer this question on three axes: (1) local contestation and accommodation over border hardening, (2) how people in local communities psychologically adapt to changing borders, and (3) how bottom-up demands influence the content of border policy. The multi-method project encompasses global quantitative analyses with an original geospatial measure of local transnational ties across borders, qualitative fieldwork at the United States–Mexico border, and observational survey tests.
 
 ## Working Papers
 
