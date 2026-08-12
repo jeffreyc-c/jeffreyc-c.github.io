@@ -8,7 +8,7 @@ In my dissertation project, I take up the challenge of theorizing borderlands as
 
 Given this position, how are local communities navigating the global trend toward hardened borders? I answer this question on three axes: (1) local contestation and accommodation over border hardening, (2) how people in local communities psychologically adapt to changing borders, and (3) how bottom-up demands influence the content of border policy. The multi-method project encompasses global quantitative analyses with an original geospatial measure of local transnational ties across borders, qualitative fieldwork at the United States–Mexico border, and observational survey tests.
 
-## Working Papers
+## Under Review
 
 <div style="margin-bottom:1.5em;">
 
@@ -32,11 +32,15 @@ Given this position, how are local communities navigating the global trend towar
 </div>
 
 <div style="margin-bottom:1.5em; font-weight:bold; margin-left:0.25em;">
-  The Local Psychology of Border Walls.
+  Gender and Public Demands for Border Security: Evidence from the United States (with Summer Lindsey).
 </div>
 
+## Working Papers
+
+<div style="margin-bottom:1.5em;">
+
 <div style="margin-bottom:1.5em; font-weight:bold; margin-left:0.25em;">
-  Gender and Public Demands for Border Security: Evidence from the United States (with Summer Lindsey).
+  The Local Psychology of Border Walls.
 </div>
 
 
