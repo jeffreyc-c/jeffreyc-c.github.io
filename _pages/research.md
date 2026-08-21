@@ -8,17 +8,17 @@ In my dissertation project, I take up the challenge of theorizing borderlands as
 
 Given this position, how are local communities navigating the global trend toward hardened borders? I answer this question on three axes: (1) local contestation and accommodation over border hardening, (2) how people in local communities psychologically adapt to changing borders, and (3) how bottom-up demands influence the content of border policy. The multi-method project encompasses global quantitative analyses with an original geospatial measure of local transnational ties across borders, qualitative fieldwork at the United States–Mexico border, and observational survey tests.
 
-## Under Review
+## Publications
 
 <div style="margin-bottom:1.5em;">
 
   <details>
-    <summary style="cursor:pointer; font-weight:bold; list-style: disclosure-closed; display:list-item;">
+    <summary style="cursor:pointer; list-style: disclosure-closed; display:list-item;">
       <div style="display:flex; align-items:center; justify-content:space-between; width:100%;">
         <span style="margin-left:0.25em;">
-          The Local Politics of Border Control: Transnationality, Resistance, and Accommodation (invited to revise and resubmit at <em>International Studies Quarterly</em>).
+          <strong>Jeffrey Coltman-Cormier.</strong> 2026. “The Local Politics of Border Control: Transnationality, Resistance, and Accommodation.” <em>International Studies Quarterly</em> (Forthcoming).
         </span>
-        <a href="/files/resistance_coltman-cormier.pdf" download
+        <a href="/files/jcc_localpolitics.pdf" download
            style="background-color:#0366d6; color:white; padding:4px 8px; font-size:0.85em; border-radius:4px; text-decoration:none; margin-left:10px; white-space:nowrap;">
            PDF
         </a>
@@ -31,18 +31,16 @@ Given this position, how are local communities navigating the global trend towar
 
 </div>
 
-<div style="margin-bottom:1.5em; font-weight:bold; margin-left:0.25em;">
-  Gender and Public Demands for Border Security: Evidence from the United States (with Summer Lindsey).
+## Works in Progress
+
+<div style="margin-bottom:1.5em; margin-left:0.25em;">
+  “Gender and Public Demands for Border Security: Evidence from the United States” (with Summer Lindsey). Under Review.
 </div>
 
-## Working Papers
-
-<div style="margin-bottom:1.5em;">
-
-<div style="margin-bottom:1.5em; font-weight:bold; margin-left:0.25em;">
-  The Local Psychology of Border Walls.
+<div style="margin-bottom:1.5em; margin-left:0.25em;">
+  “The Local Psychology of Border Walls.”
 </div>
 
-
-
-
+<div style="margin-bottom:1.5em; margin-left:0.25em;">
+  International Border Lengths Dataset.
+</div>
