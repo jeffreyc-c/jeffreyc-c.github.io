@@ -16,7 +16,7 @@ Given this position, how are local communities navigating the global trend towar
     <summary style="cursor:pointer; list-style: disclosure-closed; display:list-item;">
       <div style="display:flex; align-items:center; justify-content:space-between; width:100%;">
         <span style="margin-left:0.25em;">
-          <strong>Jeffrey Coltman-Cormier.</strong> 2026. “The Local Politics of Border Control: Transnationality, Resistance, and Accommodation.” <em>International Studies Quarterly</em> (Forthcoming).
+          <strong>Jeffrey Coltman-Cormier.</strong> 2026. “The Local Politics of Border Control: Transnationality, Resistance, and Accommodation.” <em>International Studies Quarterly</em> (<em>Forthcoming<em>).
         </span>
         <a href="/files/jcc_localpolitics.pdf" download
            style="background-color:#0366d6; color:white; padding:4px 8px; font-size:0.85em; border-radius:4px; text-decoration:none; margin-left:10px; white-space:nowrap;">
@@ -34,7 +34,7 @@ Given this position, how are local communities navigating the global trend towar
 ## Works in Progress
 
 <div style="margin-bottom:1.5em; margin-left:0.25em;">
-  “Gender and Public Demands for Border Security: Evidence from the United States” (with Summer Lindsey). Under Review.
+  “Gender and Public Demands for Border Security: Evidence from the United States” (with Summer Lindsey). <em>Under Review<em>.
 </div>
 
 <div style="margin-bottom:1.5em; margin-left:0.25em;">
