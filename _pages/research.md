@@ -35,16 +35,22 @@ Given this position, how are local communities navigating the global trend towar
 
 </div>
 
-## Works in Progress
+## Working Papers
 
 <div style="margin-bottom:1.5em; margin-left:0.25em;">
   “Gender and Public Demands for Border Security: Evidence from the United States” (with Summer Lindsey). <em>Under Review</em>.
 </div>
 
 <div style="margin-bottom:1.5em; margin-left:0.25em;">
-  “The Local Psychology of Border Walls.”
+  “Border Walls, Local Identity, and State-Building.”
+</div>
+
+## Works in Progress
+
+<div style="margin-bottom:1.5em; margin-left:0.25em;">
+  “Bottom-up Bordering: The Influence of Local Communities on Policy.”
 </div>
 
 <div style="margin-bottom:1.5em; margin-left:0.25em;">
-  International Border Lengths Dataset.
+  “Regulations, Passes, and Zones: How States Delimit Borderlands.”
 </div>
