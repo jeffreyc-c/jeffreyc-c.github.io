@@ -17,10 +17,11 @@
 }
 
 .page {
-  // No right-column suffix: $right-sidebar-width is 0 in _variables.scss, so reserving columns for a sidebar that does not exist would leave a dead gutter and make .page narrower than .archive.
+  // One column of right margin, matched in .archive and .page__related so every content block ends on the same line. The theme's default was 2 columns, reserving space for the right sidebar that $right-sidebar-width disables.
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
+    @include suffix(1 of 12);
   }
 
   .page__inner-wrap {
@@ -386,6 +387,7 @@
 
   @include breakpoint($large) {
     @include pre(2.5 of 12);
+    @include suffix(1 of 12);
   }
 
   a {
