@@ -8,9 +8,7 @@ author_profile: true
   .page__content details > p { margin-top: 0.75em; }
 </style>
 
-In my work, I take up the challenge of theorizing borderlands as unique geopolitical spaces and local populations as central actors. Knowledge about the macro-level causes and effects of border hardening is abundant, but little is understood about its “on-the-ground” politics. Local communities are unique in their opportunity to engage with society across the border and in directly experiencing changes in how borders are governed.
-
-Given this position, how are local communities navigating the global trend toward hardened borders? My agenda answers this question on three axes: (1) local contestation and accommodation over border hardening, (2) how people in local communities psychologically adapt to changing borders, and (3) how bottom-up demands influence the content of border policy.
+In my work, I take up the challenge of theorizing borderlands as unique geopolitical spaces and local populations as central actors. Knowledge about the macro-level causes and effects of border hardening is abundant, but little is understood about its “on-the-ground” politics. Local communities are unique not only in directly experiencing changes around border governance but in their opportunity to engage with neighboring societies. Given this position, my agenda examines local communities and the global trend toward hardening on multiple axes: (1) local contestation and accommodation over border hardening, (2) psychological adaptation as states expand their presence in border areas, and (3) the influence of bottom-up demands on the content of border policy.
 
 ## Publications
 
