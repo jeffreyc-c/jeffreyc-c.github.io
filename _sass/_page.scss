@@ -17,10 +17,10 @@
 }
 
 .page {
+  // No right-column suffix: $right-sidebar-width is 0 in _variables.scss, so reserving columns for a sidebar that does not exist would leave a dead gutter and make .page narrower than .archive.
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
   }
 
   .page__inner-wrap {
