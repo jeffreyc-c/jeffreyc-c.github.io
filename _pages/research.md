@@ -18,7 +18,7 @@ In my work, I take up the challenge of theorizing borderlands as unique geopolit
     <summary style="cursor:pointer; list-style: disclosure-closed; display:list-item;">
       <div style="display:flex; align-items:center; justify-content:space-between; width:100%;">
         <span style="margin-left:0.25em;">
-          <strong>Jeffrey Coltman-Cormier.</strong> 2026. “The Local Politics of Border Control: Transnationality, Resistance, and Accommodation.” <em>International Studies Quarterly</em> (Forthcoming).
+          <strong>Jeffrey Coltman-Cormier.</strong> 2026. “The Local Politics of Border Hardening: Transnationality, Resistance, and Accommodation.” <em>International Studies Quarterly</em> (Forthcoming).
         </span>
         <a href="/files/jcc_localpolitics.pdf" download
            style="background-color:#0366d6; color:white; padding:4px 8px; font-size:0.85em; border-radius:4px; text-decoration:none; margin-left:10px; white-space:nowrap;">
