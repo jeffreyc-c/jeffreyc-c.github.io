@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Rutgers University (Instructor)
+## Instructor, Rutgers University
 
 <div style="margin-bottom:1.5em; margin-left:0.25em;">
   <div style="display:flex; justify-content:space-between;">
