@@ -45,5 +45,5 @@ author_profile: true
     <strong>Teaching Assistant</strong>
     <span style="margin-left:10px; white-space:nowrap;">Summer 2022</span>
   </div>
-  Summer Institute in Computational Social Science, Rutgers University
+  <a href="https://sicss.io/2022/rutgers/">Summer Institute in Computational Social Science-Rutgers University</a>
 </div>
