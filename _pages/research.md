@@ -40,15 +40,19 @@ My work takes up the challenge of theorizing borderlands as unique geopolitical 
 </div>
 
 <div style="margin-bottom:1.5em; margin-left:0.25em;">
-  “Border Walls, Local Identity, and State-Building.”
+  “Border Walls, Local Identity, and State-Society Relations.”
 </div>
 
 ## Works in Progress
 
 <div style="margin-bottom:1.5em; margin-left:0.25em;">
-  “Bottom-up Bordering: The Influence of Local Communities on Policy.”
+  “The Last Enclosure: Border Walls and State-Building.”
 </div>
 
 <div style="margin-bottom:1.5em; margin-left:0.25em;">
   “Regulations, Passes, and Zones: How States Delimit Borderlands.”
+</div>
+
+<div style="margin-bottom:1.5em; margin-left:0.25em;">
+  “Bottom-up Bordering: The Influence of Local Communities on Policy.”
 </div>
