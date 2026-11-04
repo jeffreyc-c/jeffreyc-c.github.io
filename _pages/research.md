@@ -8,7 +8,7 @@ author_profile: true
   .page__content details > p { margin-top: 0.75em; }
 </style>
 
-My work takes up the challenge of theorizing borderlands as unique geopolitical spaces and local populations as central actors. Knowledge about the causes and effects of border hardening is abundant, but little is understood about its “on-the-ground” politics. Local communities are unique not only in directly experiencing the hardening trend but in their opportunity to engage with neighboring societies. Given this position, my agenda examines local communities and border hardening on multiple axes: (1) contestation and accommodation over hardening, (2) the impact of hardening on national identification, and (3) the influence of hardening on the broader consolidation of state authority.
+My work takes up the challenge of theorizing borderlands as unique geopolitical spaces and local populations as central actors. Knowledge about the causes and effects of border hardening is abundant, but little is understood about its “on-the-ground” politics. Local communities are unique not only in directly experiencing practices like walling but in their opportunity to engage with neighboring societies. Given this position, my agenda examines the local politics of border hardening on multiple axes: (1) which types of communities contest the phenomenon and how they can be accommodated, (2) the impact on national identification and state-society relations, and (3) whether hardening drives broader state-building.
 
 ## Publications
 
