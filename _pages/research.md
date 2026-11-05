@@ -40,7 +40,7 @@ My work takes up the challenge of theorizing borderlands as unique geopolitical 
 </div>
 
 <div style="margin-bottom:1.5em; margin-left:0.25em;">
-  “Border Walls, Local Identity, and State-Society Relations.”
+  “The Effect of Border Walls on National Identification.”
 </div>
 
 ## Works in Progress
