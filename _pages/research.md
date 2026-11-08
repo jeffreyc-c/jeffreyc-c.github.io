@@ -18,7 +18,7 @@ My work takes up the challenge of theorizing borderlands as unique geopolitical 
     <summary style="cursor:pointer; list-style: disclosure-closed; display:list-item;">
       <div style="display:flex; align-items:center; justify-content:space-between; width:100%;">
         <span style="margin-left:0.25em;">
-          <strong>Jeffrey Coltman-Cormier.</strong> 2026. “The Local Politics of Border Hardening: Transnationality, Resistance, and Accommodation.” <em><a href="https://track.smtpsendmail.com/9032119/c?p=A2gdu2s2VOM-VRmZKn6vT8a3tb9DKSjsvUy1CbzFvA0KKEnWme-zxXkRDiGlChkI-KLO9lyF-svY934khtpzjbvVQgj_kklJJYy-Q2FjgqKv5_rRX-wO6wpyQqb-dLQ0budCS8BaogZafSFqISTHEvyuTOlaIawHoax5pjyDTcxTIEAtVUqvBubezgaPAHZSUEcta_iAHO3sQL0o8miTo8vjK8LrSH-i4WpnU5QzpWKglsTBeOzug9w3i-jX_L8tUhRRu4qpvgiL38vmDhUtNGkSNSB7afmYZRtG6CKbSWtgcC4XykoRcwb13n_WGP9A2GX6K1Dlgbv4swgbt4XjL9KkRx9VxqcwOcrrvt5av1g-wQJc-NbOd4WA02CH2KhF">International Studies Quarterly</a></em>. 70(4).
+          <strong>Jeffrey Coltman-Cormier.</strong> 2026. “The Local Politics of Border Hardening: Transnationality, Resistance, and Accommodation.” <em><a href="/files/jcc_localpolitics.pdf">International Studies Quarterly</a></em>. 70(4).
         </span>
         <a href="/files/jcc_localpolitics.pdf" download
            style="background-color:#0366d6; color:white; padding:4px 8px; font-size:0.85em; border-radius:4px; text-decoration:none; margin-left:10px; white-space:nowrap;">
